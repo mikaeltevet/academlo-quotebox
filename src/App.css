@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.quotebox {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.quote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.author {
+  font-size: 1rem;
+  font-style: normal;
+}
